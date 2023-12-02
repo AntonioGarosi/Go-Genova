@@ -1,1 +1,1 @@
-Materiale per la comunicazione del club Go di Genova.
+Materiale per il club Go di Genova.
