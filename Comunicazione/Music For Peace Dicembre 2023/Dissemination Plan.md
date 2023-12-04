@@ -1,4 +1,4 @@
-# Disseminatio Plan
+# Dissemination Plan
 
 Piano d'azione per il materiale di comunicazione previusto per il _Mercatino di Natale_ di _Music For Peace_.
 
