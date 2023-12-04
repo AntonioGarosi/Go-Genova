@@ -8,3 +8,4 @@ Piano d'azione per il materiale di comunicazione previusto per il _Mercatino di 
 | Flyer F/R | X        |               |         |               |
 | Flyer     |          |               |         |               |
 | Poster    |          |               |         |               |
+| Goban A4  | X        | X             |         |               |
