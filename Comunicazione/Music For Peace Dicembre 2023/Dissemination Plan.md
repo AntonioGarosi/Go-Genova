@@ -5,6 +5,6 @@ Piano d'azione per il materiale di comunicazione previusto per il _Mercatino di 
 | Articolo  | Design   | Approvazione  | Stampa  | Distribuzione |
 | ---       | :---:    | :---:         | :---:   | :---:         |
 | Brochure  | X        |               |         |               | 
-| Flyer F/R | X        |               |         |               |
-| Flyer     |          |               |         |               |
-| Poster    |          |               |         |               |
+| Flyer		| X        |               |         |               |
+| Poster piccolo     | X         |               |         |               |
+| Poster grande   |          |               |         |               |
